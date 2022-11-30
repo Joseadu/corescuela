@@ -1,0 +1,15 @@
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\bin\Debug\net7.0\proyecto-escuela.exe
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\bin\Debug\net7.0\proyecto-escuela.deps.json
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\bin\Debug\net7.0\proyecto-escuela.runtimeconfig.json
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\bin\Debug\net7.0\proyecto-escuela.dll
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\bin\Debug\net7.0\proyecto-escuela.pdb
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.csproj.AssemblyReference.cache
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.AssemblyInfoInputs.cache
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.AssemblyInfo.cs
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.csproj.CoreCompileInputs.cache
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.dll
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\refint\proyecto-escuela.dll
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.pdb
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\proyecto-escuela.genruntimeconfig.cache
+C:\Users\josed\programacion\Cursos\Platzi\backend-c#-.net\funcamentos-c#-.net\proyecto-escuela\obj\Debug\net7.0\ref\proyecto-escuela.dll
