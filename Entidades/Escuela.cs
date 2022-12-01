@@ -2,6 +2,7 @@ namespace CorEscuela.Entidades
 {
     class Escuela
     {
+        // ATRIBUTOS
         string nombre;
         public string Nombre 
         {
@@ -12,12 +13,10 @@ namespace CorEscuela.Entidades
         public string Pais { get; set; }
         public string Ciudad { get; set; }
         public TiposEscuela TiposEscuela { get; set; }
+        public Curso[] Cursos { get; set; }
 
-        // public Escuela(string nombre, int año)
-        // {
-        //     this.nombre = nombre;
-        //     this.añoCreación = año;
-        // }
+
+        // CONSTRUCTOR
         public Escuela(string nombre, int año, TiposEscuela tipo, string pais = "", string ciudad = "")
         {
             this.nombre = nombre;
@@ -28,7 +27,7 @@ namespace CorEscuela.Entidades
 
         public override string ToString()
         {
-            return $"Nombre{this.Nombre}, Tipo: {this.TiposEscuela}, País: {this.Pais}, Ciudad: {this.Ciudad}";
+            return $"{this.Nombre}, Tipo: {this.TiposEscuela}, País: {this.Pais}, Ciudad: {this.Ciudad}";
         }
     }
 }

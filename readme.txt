@@ -15,4 +15,14 @@ a través de los parámetros.
 ETAPA 2
 ------- 
 
-- 
+- Repaso de operadores y condicionales
+- Ceración de numerales para asignar valores a los atributos de un objeto
+
+
+
+
+-------
+ETAPA 3
+------- 
+
+- Colecciones vs arreglos
