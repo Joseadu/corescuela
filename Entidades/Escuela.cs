@@ -7,13 +7,13 @@ namespace CorEscuela.Entidades
         public string Nombre 
         {
             get { return "Nombre de la escuela: " + nombre; }
-            set { nombre = value.ToUpper(); }
+            set { nombre = value; }
         }
         public int añoCreación { get; set; }
         public string Pais { get; set; }
         public string Ciudad { get; set; }
         public TiposEscuela TiposEscuela { get; set; }
-        public Curso[] Cursos { get; set; }
+        public List<Curso> Cursos { get; set; }
 
 
         // CONSTRUCTOR

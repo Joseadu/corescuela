@@ -9,19 +9,56 @@ namespace ProyectoEscuela
             var escuela = new Escuela("Plazti School", 2012, TiposEscuela.Primaria, pais: "Colombia", ciudad: "Bogotá");
             Console.WriteLine(escuela);
 
-            escuela.Cursos = new Curso[] {
-                    new Curso() {
-                    Nombre = "101"
+            escuela.Cursos = new List<Curso>(){
+                new Curso() {
+                    Nombre = "101",
+                    Jornada = TiposJornada.Mañana
                 },
                     new Curso() {
-                    Nombre = "201"
+                    Nombre = "201",
+                    Jornada = TiposJornada.Mañana
                 },
                     new Curso() {
-                    Nombre = "301"
+                    Nombre = "301",
+                    Jornada = TiposJornada.Mañana
                 }
             };
 
+            escuela.Cursos.Add(
+                new Curso() {
+                    Nombre = "102",
+                    Jornada = TiposJornada.Tarde
+                }
+            );
+            escuela.Cursos.Add(
+                new Curso() {
+                    Nombre = "202",
+                    Jornada = TiposJornada.Tarde
+                }
+            );
+
+            var otraColeccion = new List<Curso>(){
+                new Curso() {
+                    Nombre = "401",
+                    Jornada = TiposJornada.Tarde
+                },
+                new Curso() {
+                    Nombre = "501",
+                    Jornada = TiposJornada.Mañana
+                },
+                new Curso() {
+                    Nombre = "502",
+                    Jornada = TiposJornada.Mañana
+                }
+            };
+
+            System.Console.WriteLine("====================");
             ImprimirCursosEscuela(escuela);
+        }
+
+        private static bool removerCurso(Curso cursoRemovido)
+        {
+            return cursoRemovido.Nombre == "301";
         }
 
         private static void ImprimirCursosEscuela(Escuela escuela)
@@ -38,12 +75,5 @@ namespace ProyectoEscuela
                 }
             }
         }
-        // private static void ImprimirCursos(Curso[] arrayCursos)
-        // {
-        //     foreach (var curso in arrayCursos)
-        //     {
-        //         System.Console.WriteLine($"Nombre {curso.Nombre}, Id{curso.UniqueId}");
-        //     }
-        // }
     }
 }

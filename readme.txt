@@ -1,3 +1,7 @@
+En este archivo se mostrará los temas que se tocan en cada 
+etapa del curso.
+
+
 -------
 ETAPA 1
 ------- 
@@ -26,3 +30,7 @@ ETAPA 3
 ------- 
 
 - Colecciones vs arreglos
+- Limitaciones de los arrays y beneficios de las Colecciones
+- Cómo crear una colección y adicionar elementos
+- Cómo borrar elementos de una colección
+- Concepto de delegado
