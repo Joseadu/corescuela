@@ -34,3 +34,17 @@ ETAPA 3
 - Cómo crear una colección y adicionar elementos
 - Cómo borrar elementos de una colección
 - Concepto de delegado
+- Ceración de numerales para asignar valores a los atributos de un objeto
+
+
+
+
+-------
+ETAPA 4
+------- 
+
+- Refactorizar código
+- Clases estáticas
+- Entidades para ALumno, Asignatura, Escuela, Evaluación
+- Datos de prueba con Linq
+- Clase Random para generar números aleatorios

@@ -1,8 +1,9 @@
 namespace CorEscuela.Entidades
 {
-    class Escuela
+    public class Escuela
     {
         // ATRIBUTOS
+        public string UniqueId { get; private set; } = Guid.NewGuid().ToString();
         string nombre;
         public string Nombre 
         {
